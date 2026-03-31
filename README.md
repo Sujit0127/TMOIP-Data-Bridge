@@ -16,3 +16,5 @@ The application captures incoming data streams, processes them into structured f
 - Desktop GUI framework (PyQt5)
 - Networking: UDP sockets
 - Protocol: TMoIP
+### APPLICATION
+<img width="1305" height="1038" alt="ch10" src="https://github.com/user-attachments/assets/9a85da9c-6dc5-456c-b2ad-283caa47dc1f" />
